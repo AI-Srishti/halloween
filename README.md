@@ -1,6 +1,12 @@
 ## Demo
 
-[Halloween website](https://AI-Srishti.github.io/halloween/)
+[Halloween Animation](https://AI-Srishti.github.io/halloween/)
+
+## Preview
+
+Here’s a preview of the **Halloween Animation**:
+
+![Halloween Animation](./Screenshot.png)
 
 ## Getting Started
 
